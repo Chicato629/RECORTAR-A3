@@ -1,6 +1,0 @@
-﻿Archivo,Función
-`index.html`,App optimizada para móvil
-`manifest.json`,Configuración de app nativa
-`sw.js`,Funciona sin internet
-`icon-192.png`,Icono para pantalla de inicio
-`icon-512.png`,Icono alta resolución
